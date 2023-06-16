@@ -1,0 +1,80 @@
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Reporte Costura.exe
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\adodb.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Reporte Costura.exe.config
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.FrmCelulas.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.Ingreso.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.Resources.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.ReporteErrosCost.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.vbproj.CopyComplete
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.exe
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.xml
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte Costura.pdb
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Reporte Costura.pdb
+C:\Users\Usuario\source\repos\Reporte Costura\bin\Debug\Reporte Costura.xml
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.FrmSplash.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.MDIFrmPrincipal.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.ReporteMensualCostura.resources
+C:\Users\Usuario\source\repos\Reporte Costura\obj\Debug\Reporte_Costura.FrmReporMensual.resources
